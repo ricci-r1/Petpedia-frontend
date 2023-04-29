@@ -1,0 +1,15 @@
+
+.containerSectionBody{
+    display: inline;
+    border-radius: 25px;
+    background-color:#FF8C72;
+}
+.rowSectionBody{
+    align-items: center;
+    display: inline-block;
+}
+
+.col{
+    padding-left: 20px;
+    padding-right: 50px;
+}

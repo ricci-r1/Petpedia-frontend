@@ -1,0 +1,68 @@
+.contenedor-testimonio {
+  height: 560px;
+  margin: 20px 50px 50px;
+  padding-right: 50px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  border-radius: 30px;
+  box-shadow: 0 3px 13px 1px rgb(0 0 0 / 9%);
+}
+
+.imagen-testimonio {
+  height: 500px;
+  width: 500px;
+  border-radius: 30px;
+  padding-left: 25px;
+}
+
+.contenedorTextoTestimonio {
+  align-items: center;
+  width: 600px;
+  height: 500px;
+  padding-top: 60px;
+  font-weight: 400;
+  line-height: 1.5rem;
+  padding-left: 50px;
+}
+
+.tituloTestimonio {
+  font-family: Lato, amaranth;
+  font-size: 1.9rem;
+  margin-top: -60px;
+  padding-bottom: 30px;
+  padding-left: 50px;
+  text-align: center;
+}
+
+.textoTestimonio {
+  padding-left: 80px;
+  text-align: justify;
+  font-size: 1.2rem;
+  text-align: justify;
+  margin-bottom: 30px;
+  font-family: Arial;
+}
+
+.comuna {
+  padding-left: 20px;
+  font-size: 1.3rem;
+  font-family: Arial;
+}
+
+.btn {
+  background-color: #ffdb9f;
+  border-radius: 20px;
+  border-color: none;
+  padding: 9px 18px;
+  margin: 0 16px;
+}
+
+.publicacion {
+  padding-top: 60px;
+  align-items: center;
+  margin: 0 auto;
+  text-align: center;
+  align-items: center;
+}

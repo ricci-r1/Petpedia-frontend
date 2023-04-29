@@ -1,0 +1,77 @@
+.contenedorInfo {
+    margin: 10px 10px 10px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    background-color: #ffffff;
+    box-shadow: 0 3px 13px 1px rgb(0 0 0/ 9%);
+    
+}
+.imagenVet {
+    margin: 10px 10px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.barraTitulo{
+    width: 100%;
+    background-color: #D2E2A9;
+   display: block;
+  }
+  .casillas {
+    border-radius: 20px;
+    padding: 20px;
+    margin: 20px;
+    background-color: #FFBAAA;
+  }
+  
+  .col{
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-top: 20px;
+  }
+  
+  .card{
+    border-radius: 25px;
+  }
+  
+  .boton{
+    text-decoration: none;
+    color: #000;
+    font-size: 15px;
+  }
+  
+  .buscar{
+    padding-top: 100px;
+    padding-right: 90px;
+    padding-left: 90px;
+    padding-bottom: 20px;
+    width: 100%;
+    display: inline-block;
+    position: static;
+  
+  }
+  .texto{
+    padding-left: 25px;
+    display: contents;
+    align-items: flex-start;
+    float: inline-start;
+    inset-block: initial;
+  }
+  
+  .titulo{
+    font-display: initial;
+    float: left;
+    text-align: left;
+   
+  } 
+  
+  .search{
+    padding-top: 10px;
+    background-color: #fff;
+    float: right;
+  }
+  

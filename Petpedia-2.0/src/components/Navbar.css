@@ -1,0 +1,27 @@
+header{
+    width: 100%;
+    position: fixed ;
+    z-index: 100;
+}
+
+.navbar{
+    background-color: #77994B ;
+}
+
+.navbar-brand{
+    color: #fff;
+    font-family: amaranth;
+}
+
+.nav-item{
+    color: #fff;
+}
+
+.botoncito {
+    margin-left: auto;
+    background-color: #FF8C72;
+    border-radius: 10px;
+    border-color:#fff;
+    height: 35px;
+    width: 70px;
+}
